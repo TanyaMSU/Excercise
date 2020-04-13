@@ -1,0 +1,7 @@
+C:\Users\Tanya\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ReportGenerator.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ReportGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ReportGenerator.exe.config
+C:\Users\Tanya\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ReportGenerator.exe
+C:\Users\Tanya\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ReportGenerator.pdb
+C:\Users\Tanya\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ReportGenerator.exe
+C:\Users\Tanya\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ReportGenerator.pdb
